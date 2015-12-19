@@ -4,3 +4,9 @@ E:\smartgit\Новая папка\snake\snake\bin\Debug\snake.pdb
 E:\smartgit\Новая папка\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
 E:\smartgit\Новая папка\snake\snake\obj\Debug\snake.exe
 E:\smartgit\Новая папка\snake\snake\obj\Debug\snake.pdb
+E:\smartgit\snake.git\snake\snake\bin\Debug\snake.exe.config
+E:\smartgit\snake.git\snake\snake\obj\Debug\snake.exe
+E:\smartgit\snake.git\snake\snake\obj\Debug\snake.pdb
+E:\smartgit\snake.git\snake\snake\bin\Debug\snake.exe
+E:\smartgit\snake.git\snake\snake\bin\Debug\snake.pdb
+E:\smartgit\snake.git\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
